@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d1466019-470f-4b6a-b6e2-bbe55d73694f" name="weiweijiang.xyz">
+        <fileTransfer rootFolder="/home/alarak" accessType="SFTP" host="144.168.58.100" port="29682" sshConfigId="02b657b7-eb96-4e6f-8d59-ca1874e3dfc0" sshConfig="alarak@144.168.58.100:29682 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
